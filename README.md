@@ -1,6 +1,6 @@
 # Data Mining
-Data science programs with Orange Data Mining application.
-Link: https://orangedatamining.com/
+Data science programs with [Orange Data Mining](https://orangedatamining.com/) application.
+
 
 Programms
 * Sentiment Analysis for business
